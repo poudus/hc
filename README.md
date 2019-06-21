@@ -1,2 +1,2 @@
-# hc
-hexa territory
+# hw
+hexa war
